@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="center">Analysis of movie data from IMDB website.</p>
+<p align="center">Boston Housing Data Analysis.</p>
 
 ## :rocket: Technologies
 
